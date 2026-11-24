@@ -1,0 +1,10 @@
+{
+  "productName": "yiyin",
+  "bundle": {
+    "linux": {
+      "deb": {
+        "desktopTemplate": "linux/main.desktop"
+      }
+    }
+  }
+}

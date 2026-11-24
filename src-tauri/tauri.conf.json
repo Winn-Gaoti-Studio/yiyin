@@ -32,8 +32,18 @@
   },
   "bundle": {
     "active": true,
-    "targets": ["dmg", "nsis"],
-    "icon": ["../icon/icon.icns", "../icon/icon.ico"],
+    "targets": [
+      "dmg",
+      "nsis"
+    ],
+    "icon": [
+      "../icon/icon.icns",
+      "../icon/icon.ico",
+      "../icon/32x32.png",
+      "../icon/128x128.png",
+      "../icon/128x128@2x.png",
+      "../icon/icon.png"
+    ],
     "macOS": {
       "signingIdentity": null
     },
